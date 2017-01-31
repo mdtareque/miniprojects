@@ -22,6 +22,10 @@ Qaf (chapter 50) through An-Nass (chapter 114) consisting of 65 surahs.
 |7 | Chapter 50 to 114 | 65 chapters |
 
 
+### Sajdas
+Total 14
+
+
 | Chapter No. | Name | Number of ayahs | Number of Ruku | Makki/Madani | comments | links |  
 |----------|:------------:|------:|-----:|-----:|-------:|------:|----:|
 | 1 | Al-Fatiha | 7 | 1 | Makki | | |  
