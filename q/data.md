@@ -31,3 +31,7 @@ Total 14
 | 1 | Al-Fatiha | 7 | 1 | Makki | | |  
 | 2 | Al-Baqara | 286 | 40 | Madani | | |  
 
+
+
+https://en.wikipedia.org/wiki/List_of_surahs_in_the_Quran  
+http://www.beautifulislam.net/quran/sajda_tilawat.htm  
